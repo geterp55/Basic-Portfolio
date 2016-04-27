@@ -1,0 +1,83 @@
+
+
+body{
+	background-color: #ffffff;
+}
+
+
+#top{
+	padding: 20px;
+	width: 100%
+	background-color: #fff;
+}
+
+.logo{
+	float: left;
+	display: inline;
+	width: 150px;
+	height: 100px;
+	margin-left: 300px;
+	background:#4aaaa5;
+	color: #fff;
+}
+
+
+.about{
+	float:left;
+	display: inline;
+	width: 20%;
+	height: 100px;
+	background:#fff;
+	color:#333;
+}
+
+.Portfolio{
+	float: left;
+	display: inline;
+	width: 20%;
+	height: 100px;
+	background:#fff;
+	color:#333;
+}
+
+.Contact{
+	float: left;
+	display: inline;
+	width: 20%;
+	height: 100px;
+	background: #fff;
+	color:#333;
+}
+
+}
+.image{
+	float: left;
+	display: inline-block;
+	width:20px;
+	height:20px;
+	border-style: ridge;
+}
+
+.inner body{
+	width: 100%
+	height:100%;
+	border: solid 3px red;
+
+
+}
+
+.paragraph{
+	overflow: auto;
+	display: inline;
+	width: 50%;
+	float: left;
+	border:solid red;
+}
+
+.sidebar{
+	display:block;
+	float: right;
+	width: 30%;
+	height: 30%;
+	border: solid 3px red;
+}
